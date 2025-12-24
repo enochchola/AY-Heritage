@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Adventist Youth Heritage Portal",
+  "description": "A comprehensive platform for Adventist Youth to learn church heritage, register for activities, take exams, and track their spiritual growth with AI-powered heritage guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
